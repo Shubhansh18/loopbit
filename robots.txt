@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loopbit.cotravels.in/sitemap.xml
